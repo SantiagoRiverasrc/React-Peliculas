@@ -1,6 +1,21 @@
 # Web peliculas
 
-Este proyecto es creado con React,HTML, CSS.
+Este proyecto es creado con React,HTML, CSS, Después de clonar o descargar el archivo en la linea de comandos ejecutar el comando:
+
+### `npm install`
+
+Para instalar los paquetes modulos de node que se necesitan para correr el proyecto.
+
+## Correr el proyecto
+
+### `npm start`
+
+[![React1.png](https://i.postimg.cc/JzVVYYNN/React1.png)](https://postimg.cc/0bfBbfHj)
+
+[![React2.png](https://i.postimg.cc/vmGRb1SD/React2.png)](https://postimg.cc/5XKKmtJM)
+
+[![React3.png](https://i.postimg.cc/NGZjY48M/React3.png)](https://postimg.cc/Btc0B2V9)
+
 
 
 
