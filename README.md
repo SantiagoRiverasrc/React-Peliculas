@@ -1,4 +1,4 @@
-#Web peliculas
+# Web peliculas
 
 Este proyecto es creado con React,HTML, CSS.
 
